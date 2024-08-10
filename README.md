@@ -45,10 +45,11 @@ The model is trained using **Center Loss** to enhance its ability to distinguish
 
 The model's performance is evaluated based on the ROC-AUC score, which is reported during the training process. The training and validation losses, ROC-AUC scores, and accuracy metrics are plotted for analysis.
 
+
+
 You can download the dataset from the following link: [102Flowers](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 
 
 
-- The dataset is provided by [Dataset Provider](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).
 
 
