@@ -1,5 +1,4 @@
 # Flower-Similarity
-# Flower Similarity Detection
 
 ## Overview
 
